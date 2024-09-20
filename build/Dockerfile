@@ -6,7 +6,7 @@ LABEL vendor=Gavin\ Pangu \
       buildtime="20220115" \
       description="DataX"
 
-ARG MAVEN_VERSION=3.8.4
+ARG MAVEN_VERSION=3.9.9
 ARG DATAX_WEB_VERSION=2.1.2
 ARG DB_HOST=mysql
 ARG DB_PORT=3306
